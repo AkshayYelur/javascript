@@ -1,0 +1,31 @@
+//primitive
+// there are 7 types of primitive 
+
+// String ,Number,Boolean ,Null,undefined ,symbol,BigInt
+// ********************************************************************
+// Referance(   Non Primitive )
+// Array ,objects,functions
+
+
+// Type and typeof return value
+
+// number - number
+
+// string -  String
+
+// boolean - boolean
+
+// symbol - symbol
+
+// bigint - bigint
+
+// undefined - undefined
+
+// null - object
+
+// array - object
+
+// object - object
+
+// function - function
+
